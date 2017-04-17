@@ -49,7 +49,7 @@
 	</section>
 
 	<!-- FLOATS -->
-	<section style="display:none">
+	<section style="display: none">
 		<h2><?php echo 'Floats' ?></h2>
 		<hr>
 		<?php
@@ -90,7 +90,7 @@
 	</section>
 
 	<!-- INDEXED ARRAYS -->
-	<section style="display: none;">
+	<section style="display: block;">
 		<h2><?php echo 'Indexed Arrays' ?></h2>
 		<hr>
 		<h3>Languages we've learned so far:</h3>
@@ -117,7 +117,7 @@
 	</section>
 
 	<!-- ASSOCIATIVE ARRAYS -->
-	<section style="display: none;">
+	<section style="display: block;">
 		<h2><?php echo 'Associative Arrays' ?></h2>
 		<hr>
 		<h3>Types of Languages we've learned so far:</h3>
@@ -188,7 +188,7 @@
 	</section>
 
 	<!-- IF STATEMENTS -->
-	<section style="display:block;">
+	<section style="display: none;">
 		<h2><?php echo 'if Statements' ?></h2>
 		<?php
 		$age = 21;
